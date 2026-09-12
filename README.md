@@ -146,3 +146,6 @@ RFM Scoring
 Customer Segmentation
         ↓
 Tableau Dashboard
+## Dashboard Preview
+
+![Customer RFM Segmentation Dashboard](dashboard.png)
